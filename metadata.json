@@ -1,0 +1,5 @@
+{
+  "name": "TecnoReparos Service Orders",
+  "description": "A web system for TecnoReparos technicians to manage computer and notebook repair service orders. It allows for user authentication, creating, listing, editing, deleting, and updating the status of service orders.",
+  "requestFramePermissions": []
+}
